@@ -32,4 +32,4 @@ This is a React application that retrieves paginated data from a dummy JSON endp
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-pagination-app.git
+git clone https://github.com/rehmangour04/internship-task-zime
